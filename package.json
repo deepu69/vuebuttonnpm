@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@vue/cli-service": "~5.0.8",
-    "bili": "^1.5.3",
+    "bili": "^5.0.5",
     "rollup-plugin-vue": "^6.0.0",
     "vue-template-compiler": "^2.7.10"
   },
